@@ -1,4 +1,5 @@
-# OnlineQuiz
+# ONLINE QUIZ APPLICATION
+
 ## Conducting Online Quiz on various fields like Sports,History,Science using Jframes and mysql. 
 
 # FRONT END
@@ -41,7 +42,7 @@
 ## Exit page
 ![exit](https://user-images.githubusercontent.com/37345220/37829833-9cc33c70-2ec6-11e8-9827-86c180572ada.png)
 
-## BACK END 
+# BACK END 
 
 ## Tables used
 ![tables](https://user-images.githubusercontent.com/37345220/37830004-2906cbd4-2ec7-11e8-8dbc-623818450ac6.png)
